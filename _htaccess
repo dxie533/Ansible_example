@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^ttt/play$ ttt/no.php [NC]
